@@ -10,11 +10,11 @@ this project will examine Qurtubah, a neihborhood in Riyadh city according to th
 - Business owners looking to expand their business to a new location.
 
 ## PROJECT QUESTIONS  
-- What are the different destinations in Qurtubah?
+- How diverse are the destinations in Qurtubah?
 - What are the best Destinations?
 - how walkable is Qurtubah?
 - How is the neighborhood suitble for each age group?
-- How is the neighborhood suitble for each gender?
+- How is the neighborhood mother-child friendly?
 - What is the population distribution?
 - How is rent affected in comparsion to other neighborhoods?
 
