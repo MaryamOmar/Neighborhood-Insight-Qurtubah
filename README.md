@@ -1,16 +1,20 @@
-# Neighborhoods Of Riyadh
+# Neighborhood Insight: Qurtubah
+
 ## OVERVIEW
-this project will examine different neighborhoods in Riyadh city according to the following measures: destinations, diversity, density, and personal safety. 
+this project will examine Qurtubah, a neihborhood in Riyadh city according to the following measures: destinations, diversity, density, street connectivity, and different age groups friendliness. 
 
 ## PROJECT QUESTIONS  
-- What are the livilest and least livly neighborhoods in riyadh? And why?
+- What are the different destinations in Qurtubah?
+- What are the best Destinations?
+- how walkable is Qurtubah?
 - How is the neighborhood suitble for each age group?
 - What is the population distribution?
-- How is rent affected in each neighborhoods?
+- How is rent affected in comparsion to other neighborhoods?
 
 ## METHODOLOGY  
+
 ### Data
 
 - Walkscore will be retrieved using www.walkscore.com API.
 - Street network will be retrieved using the Osmnx package.
-- Other data of neighborhood amenities will be scraped from google maps with the help of Octoparse.
+- Other data of neighborhood amenities will be scraped from google maps with the help of Apify & Octoparse.
