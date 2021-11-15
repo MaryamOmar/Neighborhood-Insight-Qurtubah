@@ -6,7 +6,7 @@ this project will examine Qurtubah, a neihborhood in Riyadh city according to th
 
 ## Target Audience
 - Someone who's moving to Riyadh and looking for a perfect neighborhood for their needs.
-- Soneone who's looking for a place to buy or rent.
+- Someone who's looking for a place to buy or rent.
 - Business owners looking to expand their business to a new location.
 
 ## PROJECT QUESTIONS  
