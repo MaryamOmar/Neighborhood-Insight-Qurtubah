@@ -24,3 +24,4 @@ this project will examine Qurtubah, a neihborhood in Riyadh city according to th
 - Walkscore will be retrieved using www.walkscore.com API.
 - Street network will be retrieved using the Osmnx package.
 - Other data of neighborhood amenities will be scraped from google maps with the help of Apify & Octoparse.
+- Rent data from Aqar
