@@ -20,7 +20,8 @@ This project will examine Qurtubah, a neihborhood in Riyadh city according to th
 
 ## DATA
 data was collected from multiple sources due to accessibility limitaions. the collected data included the following neighborhood amenities:
-schools, nurseries, resturants, cafes, malls, pharmacies, clinics, parks, grocery stores, clothing stores, tailors, salons and barber shops, gyms, and mosques.[1]
+schools, nurseries, resturants, cafes, malls, pharmacies, clinics, parks, grocery stores, clothing stores, tailors, salons and barber shops, gyms, and mosques.
+
 ### sources:
 - google maps ( scraped using octoparse & apify ).
 - Foursquare API.
@@ -31,7 +32,7 @@ merging and cleaning the multiple csv files resulted in a dataset of 2000 rows a
 | col | Description | Type |
 | --- | --- | --- |
 | title | name of location | string 
-| category | type of place [1] | string
+| category | type of place  | string
 | dist | district | string
 | lat | Latitude | float
 | lng | longitude | float
