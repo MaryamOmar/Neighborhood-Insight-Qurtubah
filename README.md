@@ -37,6 +37,8 @@ merging and cleaning the multiple csv files resulted in a dataset of 2145 rows a
 | lng | longitude | float
 | rating | rating retrieved from google places | float
 | num_rating | number of ratings the place recived | int
+| price | price range of the place | string
+
 
 
 ## METHODOLOGY  
