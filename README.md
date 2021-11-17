@@ -26,7 +26,7 @@ schools, nurseries, resturants, cafes, malls, pharmacies, clinics, parks, grocer
 - Foursquare API.
 
 ### Description 
-merging and cleaning the multiple csv files resulted in a dataset of 2145 rows and 7 columns.
+merging and cleaning the multiple csv files resulted in a dataset of 2145 rows and 8 columns.
 
 | col | Description | Type |
 | --- | --- | --- |
