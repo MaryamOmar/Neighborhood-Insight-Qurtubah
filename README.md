@@ -41,7 +41,7 @@ merging and cleaning the multiple csv files resulted in a dataset of 2145 rows a
 
 
 
-## METHODOLOGY  
+## TOOLS  
 - SQL was used to merge the multible scraped datasets into one table 
 - Walkscore will be retrieved using www.walkscore.com API.
 - Street network will be retrieved using the Osmnx package.
