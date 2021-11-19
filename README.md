@@ -13,7 +13,6 @@ This project will examine Qurtubah, a neihborhood in Riyadh city according to th
 ## PROJECT QUESTIONS  
 - How diverse are the destinations in Qurtubah?
 - What are the best destinations?
-- How walkable is Qurtubah?
 - How is the neighborhood family friendly?
 - How is rent affected in comparsion to other neighborhoods?
 
