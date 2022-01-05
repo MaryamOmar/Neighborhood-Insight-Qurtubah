@@ -6,6 +6,7 @@
 This project will examine Qurtubah, a neihborhood in Riyadh city according to the following measures: destinations, diversity, density, street connectivity, and different age groups friendliness. 
 
 ### Target Audience
+if done on a bigger scale such project would have many usecases, such as:
 - Someone who's moving to Riyadh and looking for a perfect neighborhood for their needs.
 - Someone who's looking for a place to buy or rent.
 - Business owners looking to expand their business to a new location.
